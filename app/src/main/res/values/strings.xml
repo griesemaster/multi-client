@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">multi-client</string>
+    <string name="twitterTrigger">Click to sign into Twitter</string>
+</resources>
